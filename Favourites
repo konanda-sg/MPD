@@ -3702,6 +3702,7 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=662d4954fd8fcc3b9708b
 
 #EXTINF:0, tvg-logo="" group-title="Infotainment",China Travel
 https://amg01314-cgtn-amg01314c7-lg-uae-10953.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01314-cgtn-cgtnchinatravel-lguae/playlist.m3u8
+#https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 #EXTINF:0, tvg-logo="" group-title="Infotainment",Discovering China
 https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8
 
