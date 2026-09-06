@@ -237,10 +237,14 @@ http://93.119.105.61:80/play/live.php?extension=ts&mac=00:1A:79:00:14:3C&stream=
 #EXTINF:-1 tvg-logo="" group-title="Mac",Movies Now HD
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441212&extension=ts
 
-#EXTINF:-1 tvg-logo="" group-title="Mac",Nat Geo HD
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540" group-title="Mac",Nat Geo HD
 http://93.119.105.61:80/play/live.php?extension=ts&mac=00:1A:79:00:14:3C&stream=441173
+#http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&extension=ts&stream=373017
+
 #EXTINF:-1 tvg-logo="" group-title="Mac",Nat Geo Wild HD
 http://93.119.105.61:80/play/live.php?extension=ts&mac=00:1A:79:00:14:3C&stream=441172
+
+
 #EXTINF:-1 tvg-logo="" group-title="Mac",Discovery HD
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441223&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="Mac",Animal Planet HD
@@ -8596,10 +8600,18 @@ https://live20.bozztv.com/giatvplayout7/giatv-210728/playlist.m3u8
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 
 
-#EXTINF:0, tvg-logo="" group-title="Kids",Wow Kidz
+#EXTINF:0, tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png" group-title="Kids",Hungama TV
+http://103.185.24.134:3001/HUNGAMA/index.m3u8
+#EXTINF:0, tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA/images/LOGO_HD/image.png" group-title="Kids",Sonic
+http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
+#EXTINF:0, tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png" group-title="Kids",Sonic
+http://103.185.24.134:3001/SONIC/index.m3u8
+
+
+#EXTINF:0, tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png" group-title="Kids",Wow Kidz
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
-#EXTINF:0, tvg-logo="" group-title="Kids",Epic Kids
+#EXTINF:0, tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GUBBARE/images/LOGO_HD/image.png" group-title="Kids",Epic Kids
 https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
 
 #EXTINF:0, tvg-logo="" group-title="Kids",Hooray Kids
